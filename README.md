@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, react native, rest framework**
 
-- 👨‍💻 All of my projects are available at [https://unrivaled-tartufo-124595.netlify.app/](https://unrivaled-tartufo-124595.netlify.app/)
+- 👨‍💻 All of my projects are available at https://65664970892ed2121e79ee5f--eloquent-churros-d200d2.netlify.app/
 
 - 📫 How to reach me **1byron1999@gmail.com**
 
