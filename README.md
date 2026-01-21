@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Byron Chanax</h1>
 <h5 align="center">Android developer focused on Kotlin and Jetpack Compose, with experience creating modern mobile applications using MVVM architecture and best practices.I have developed complete Android projects available on GitHub, integrating REST APIs with Retrofit, local persistence with Room, and Firebase services such as Auth, Firestore, and Crashlytics. I also have complementary knowledge of React Native (Android) and backend with Django REST Framework, which allows me to understand the complete flow between frontend and backend.
 I am interested in continuing to grow as an Android developer within a team where I can learn, contribute quality code, and continuously improve my technical skills.</h5>
----
-## 📌 Main technologies:
-Android · Kotlin · Jetpack Compose · MVVM · Retrofit · Room · Firebase
-Complementary: React Native (Android) · Django REST Framework
----
 
 - 🌱 I’m currently learning **Android Development, Jetpack compose, React native, Django**
 
