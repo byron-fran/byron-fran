@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm byron</h1>
-<h3 align="center">Hello, I am a developer and now I am still learning everything related to programming. I am constantly updating with new technologies.</h3>
+<h1 align="center">Hi 👋, I'm Byron Chanax</h1>
+<h3 align="center">Android developer focused on Kotlin and Jetpack Compose, with experience creating modern mobile applications using MVVM architecture and best practices.I have developed complete Android projects available on GitHub, integrating REST APIs with Retrofit, local persistence with Room, and Firebase services such as Auth, Firestore, and Crashlytics. I also have complementary knowledge of React Native (Android) and backend with Django REST Framework, which allows me to understand the complete flow between frontend and backend.
+I am interested in continuing to grow as an Android developer within a team where I can learn, contribute quality code, and continuously improve my technical skills.
+📌 Main technologies:
+Android · Kotlin · Jetpack Compose · MVVM · Retrofit · Room · Firebase
+Complementary: React Native (Android) · Django REST Framework
+</h3>
 
-- 🌱 I’m currently learning **Django, react native, rest framework**
+- 🌱 I’m currently learning **Android Development, Jetpack compose, React native, Django**
 
 - 👨‍💻 All of my projects are available at https://portafolio-seven-pearl.vercel.app/
 
@@ -10,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@byron-fran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@byron-fran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/byron chanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byron chanax" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/byron-chanax-64427a21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byron chanax" height="30" width="40" /></a>
 <a href="https://codesandbox.com/byron-fran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="byron-fran" height="30" width="40" /></a>
 </p>
 
